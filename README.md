@@ -1,4 +1,4 @@
-# graphql_java_example [![Build Status](https://travis-ci.org/hofiorg/graphql_java_example.svg?branch=master)](https://travis-ci.org/hofiorg/graphql_java_example)
+# graphql_java_example ![maven workflow](https://github.com/hofiorg/graphql_java_example/actions/workflows/maven.yml/badge.svg)
 GraphQL Java Example
 
 ## Links
