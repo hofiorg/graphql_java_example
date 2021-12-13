@@ -1,4 +1,4 @@
-# graphql_java_example ![maven workflow](https://github.com/hofiorg/graphql_java_example/actions/workflows/maven.yml/badge.svg)
+# graphql_java_example &middot; ![maven workflow](https://github.com/hofiorg/graphql_java_example/actions/workflows/maven.yml/badge.svg)
 GraphQL Java Example
 
 ## Links
